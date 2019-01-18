@@ -14,6 +14,6 @@
     {"version":"1.0.0rc2", "buildMode":"dev", "build":"7", "isBeta": false},
     {"version":"1.0.0rc3", "buildMode":"release", "build":"8", "isBeta": false},
     {"version":"1.0.0rc4", "buildMode":"release", "build":"9", "isBeta": false, "altLink": "http://142.93.48.189"},
-    {"version":"1.0.0", "buildMode":"release", "build":"10", "isBeta": false}
+    {"version":"1.0.0", "buildMode":"release", "build":"10", "isBeta": false, "altLink": "https://github.com/Safe-Surfer/SafeSurfer-Desktop/releases"}
   ]
 }
