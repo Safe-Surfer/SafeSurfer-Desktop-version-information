@@ -3,6 +3,12 @@
   "linkBase": "https://github.com/Safe-Surfer/SafeSurfer-Desktop/releases",
   "recommendedBuild":"10",
   "recommendedBetaBuild":"10",
+  "recommendedBuildOverride":
+  {
+    "win32": null,
+    "darwin": null,
+    "linux": null
+  },
   "versions":
   [
     {"version":"1.0.0b1", "buildMode":"dev", "build":"1", "isBeta": true},
