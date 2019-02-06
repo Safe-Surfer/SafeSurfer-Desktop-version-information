@@ -1,0 +1,13 @@
+image: opensuse/leap
+
+stages:
+  - lint
+
+lint:
+  stage: lint
+  before_script:
+    # install deps for build enviroment
+    - zypper in -y jq
+  script:
+    # parse the data
+    - jq '.' <<< $(cat version-information.json) 2>&1 /dev/null && echo "Data is VALID." || echo "Data is INVALID."
