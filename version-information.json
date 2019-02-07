@@ -1,8 +1,8 @@
 {
   "name":"SafeSurfer-Desktop",
-  "linkBase": "https://github.com/Safe-Surfer/SafeSurfer-Desktop/releases",
-  "recommendedBuild":"10",
-  "recommendedBetaBuild":"10",
+  "linkBase": "https://gitlab.com/safesurfer/SafeSurfer-Desktop/releases",
+  "recommendedBuild":"13",
+  "recommendedBetaBuild":"13",
   "recommendedBuildOverride":
   {
     "win32": null,
@@ -20,6 +20,7 @@
     {"version":"1.0.0rc2", "buildMode":"dev", "build":"7", "isBeta": false},
     {"version":"1.0.0rc3", "buildMode":"release", "build":"8", "isBeta": false},
     {"version":"1.0.0rc4", "buildMode":"release", "build":"9", "isBeta": false, "altLink": "http://142.93.48.189"},
-    {"version":"1.0.0", "buildMode":"release", "build":"10", "isBeta": false, "altLink": "https://github.com/Safe-Surfer/SafeSurfer-Desktop/releases"}
+    {"version":"1.0.0", "buildMode":"release", "build":"10", "isBeta": false, "altLink": "https://github.com/Safe-Surfer/SafeSurfer-Desktop/releases"},
+    {"version":"1.0.1", "buildMode":"release", "build":"13", "isBeta": false, "altLink": "https://gitlab.com/safesurfer/SafeSurfer-Desktop/releases"}
   ]
 }
